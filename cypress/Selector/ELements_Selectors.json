@@ -1,7 +1,7 @@
 {
     "Elements":".category-cards>div:nth-child(1) h5",
     "TextBox":"[class='left-pannel'] [class='element-list collapse show'] ul li:nth-child(1)",
-    "FullName":"#userName",
+    "FullName":"#userName1",
     "Email":"#userEmail",
     "CurrentAddress":"#currentAddress",
     "PermanentAddress":"#permanentAddress"
